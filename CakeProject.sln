@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeProjectByPatHelenGabi", "CakeProjectByPatHelenGabi\CakeProjectByPatHelenGabi.csproj", "{09F44B0D-1494-4D94-AA0A-E0064C298CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeDataBase", "CakeDataBase\CakeDataBase.csproj", "{29462C90-4BD9-49B8-8858-F95CEE031274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F44B0D-1494-4D94-AA0A-E0064C298CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F44B0D-1494-4D94-AA0A-E0064C298CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F44B0D-1494-4D94-AA0A-E0064C298CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F44B0D-1494-4D94-AA0A-E0064C298CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29462C90-4BD9-49B8-8858-F95CEE031274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29462C90-4BD9-49B8-8858-F95CEE031274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29462C90-4BD9-49B8-8858-F95CEE031274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29462C90-4BD9-49B8-8858-F95CEE031274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6B78E8-3C70-43AD-BD5B-3B8FE0ACF067}
+	EndGlobalSection
+EndGlobal
