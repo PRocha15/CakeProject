@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCakeProject", "TheCakeProject\TheCakeProject.csproj", "{35A0B5B7-5CA3-43C7-817B-8BD5D15EAE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeDatabase", "CakeDataBase\CakeDatabase.csproj", "{3E305AD0-54EE-4B73-8B8A-55A8A658290F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A0B5B7-5CA3-43C7-817B-8BD5D15EAE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A0B5B7-5CA3-43C7-817B-8BD5D15EAE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A0B5B7-5CA3-43C7-817B-8BD5D15EAE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A0B5B7-5CA3-43C7-817B-8BD5D15EAE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E305AD0-54EE-4B73-8B8A-55A8A658290F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E305AD0-54EE-4B73-8B8A-55A8A658290F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E305AD0-54EE-4B73-8B8A-55A8A658290F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E305AD0-54EE-4B73-8B8A-55A8A658290F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C9891C-79E7-41AE-9536-878DC5578C38}
+	EndGlobalSection
+EndGlobal
